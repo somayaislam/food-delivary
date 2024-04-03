@@ -1,0 +1,73 @@
+#hole{
+    max-width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+#Home{
+    background-color: rgb(246, 223, 223);
+}
+.part-2{
+    font-size: 20px;
+    height: 200px;
+    
+}
+
+.part-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;}
+
+
+
+.but{
+        background-color: green;
+        height: 30px;
+        width: 60px;
+        border-radius: 12px;
+    }
+ .section{
+            width: 10%;
+            height: 10%;
+        }
+        
+        section nav{
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            position: fixed;
+            right: 0;
+            left: 0%;
+            background: rgb(252, 248, 248);
+            box-shadow: 0 0 5px rgb(234, 234, 239);
+            height: 80px;
+        }
+        
+        section nav .logo img{
+            width: 80px;
+            cursor: pointer;
+            margin: 7px 0;
+        }
+        
+        section nav ul{
+            list-style: none;
+        
+        }
+        
+        
+        section nav ul li{
+            display: inline-block;
+            margin: 0 15px;
+        
+        }
+      .btn-outline-success{
+        background-color: green;
+        height: 30px;
+        width: 60px;
+        border-radius: 12px;
+    }
+    .hole-2{
+        background-color: rgb(233, 246, 246);
+    }
+    .tex-1{
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
